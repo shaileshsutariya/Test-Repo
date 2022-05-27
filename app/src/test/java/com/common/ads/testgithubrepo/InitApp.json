@@ -1,0 +1,74 @@
+{
+  "InitApp": [
+    {
+      "key": "homeMain",
+      "value": "wZSuLicHmLY7Zjjxnc3rTVJtyBJl4qEb-mMuSysgZwNPyHJJlGIXIUDe3D4xbY3IsyXOe3MK1nd3IxCnln5MdT8zvmk7VD4bOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMWojr9NvTBuBLhyHCd5hHa1GhPSVukpSQTydEwAEXFXgt_wltjJcH3XHUaaPC1fv5o9XyvOto09QuWI89K6KjOu0SP2F-BdwURjllBtXT2Aoql0_WdpvytkH-L4AOO_qZLzZS4ghHs6Z-J9oRzL4X1Nl-ka9grHXzpH2J7-j6IydoeOG1oH1VgQ",
+      "type": "API_KEY"
+    },
+    {
+      "key": "movieMain",
+      "value": "i0huQIYb-SPfeukEUC8yz7IorfN8n38wx5d2oBLDeIQ2W1XwtcL0qJ0CXwWBjQr8m4ZrYi2CYFSyX-fmAtK1WRi7Bnjft_DoOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMWojr9NvTBuBLhyHCd5hHa1GhPSVukpSQTydEwAEXFXgt_wltjJcH3XHUaaPC1fv5o9XyvOto09QuWI89K6KjOu0SP2F-BdwURjllBtXT2Aoql0_WdpvytkH-L4AOO_qZLzZS4ghHs6Z-J9oRzL4X1Nl-ka9grHXzDUhHbZx05Cv4_T03w5ujXg",
+      "type": "API_KEY"
+    },
+    {
+      "key": "webSeriesMain",
+      "value": "1eIJS9ohNmGEhN2SBtvYfLEe7MYgeyZpEABCrMjYqMt5cg1rVnhCyAGm1pz4qfsSvE3HgqyVPleyX-fmAtK1WRYKFwVYZssgOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMWojr9NvTBuBLhyHCd5hHa1GhPSVukpSQTydEwAEXFXgt_wltjJcH3XHUaaPC1fv5o9XyvOto09QuWI89K6KjOu0SP2F-BdwURjllBtXT2Aoql0_WdpvytkH-L4AOO_qZLzZS4ghHs6Z-J9oRzL4X1Nl-ka9grHXzdHxJd1fcplppclLPLwuBkg",
+      "type": "API_KEY"
+    },
+    {
+      "key": "requestMain",
+      "value": "mLa10SU4THcunjCSuf4ilqpShlTPg7ng9r3Aht1gJ5Qwb9dq4mgu-JEXXsA9bjsZxEZoXjOedcEzdFVjGQfgZbvJ93sxOSDXOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMWojr9NvTBuBLhyHCd5hHa1GhPSVukpSQTydEwAEXFXgt_wltjJcH3XHUaaPC1fv5o9XyvOto09QuWI89K6KjOu0SP2F-BdwURjllBtXT2Aoql0_WdpvytkH-L4AOO_qZLzZS4ghHs6Z-J9oRzL4X1Nl-ka9grHXz_VRYp4R4rZ1lmWvk7RKDHQ",
+      "type": "API_KEY"
+    },
+    {
+      "key": "episodeMain",
+      "value": "9JZnQYTXE7lcZt3Gk74UkEs5PvselvR1vuUV66fZTANto41ERyKOaFL0bJtSVCxu1VJwlTAxB0GyX-fmAtK1WYm6RY4dQyUhOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMWojr9NvTBuBLhyHCd5hHa1GhPSVukpSQTydEwAEXFXgt_wltjJcH3XHUaaPC1fv5o9XyvOto09QuWI89K6KjOu0SP2F-BdwURjllBtXT2Aoql0_WdpvytkH-L4AOO_qZLzZS4ghHs6Z-J9oRzL4X1Nl-ka9grHXz4Jh6SnvjFvNtooJ42a9ORA",
+      "type": "API_KEY"
+    },
+    {
+      "key": "forceRedirect",
+      "value": "",
+      "type": "Ads"
+    },
+    {
+      "key": "qurekaImageUrl",
+      "value": "https://i.ibb.co/hKWLPNr/360-X640-3.png",
+      "type": "qurekaImageUrl"
+    },
+    {
+      "key": "qurekaPlayUrl",
+      "value": "http://223.go.qureka.com/",
+      "type": "qurekaPlayUrl"
+    },
+    {
+      "key": "threshholdClick",
+      "value": 5,
+      "type": "threshholdClick"
+    },
+    {
+      "key": "loadAndShow",
+      "value": "no",
+      "type": "Ads"
+    },
+    {
+      "key": "liveMessage",
+      "value": "",
+      "type": "Any"
+    },
+    {
+      "key": "ActiveInAppPurchase",
+      "value": "no",
+      "type": "purchase"
+    },
+    {
+      "key": "ShowAdsInMovieDownloaderOldApp",
+      "value": "yes",
+      "type": "Ads"
+    },
+    {
+      "key": "movieJson",
+      "value": "",
+      "type": ""
+    }
+  ]
+}
