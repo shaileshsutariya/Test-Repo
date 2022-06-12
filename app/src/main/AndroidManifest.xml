@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.common.ads.testgithubrepo">
 
+    <!--    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-->
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -13,6 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TestGithubRepo"
         tools:targetApi="31">
+        <!--        -->
         <activity
             android:name=".MainActivity"
             android:exported="true">
