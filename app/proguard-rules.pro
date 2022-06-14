@@ -4,6 +4,7 @@
 #
 # For more details, see
 #   http://developer.android.com/guide/developing/tools/proguard.html
+#    <!--    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-->
 
 # If your project uses WebView with JS, uncomment the following
 # and specify the fully qualified class name to the JavaScript interface

@@ -3,7 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.common.ads.testgithubrepo">
 
-    <!--    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-->
 
     <application
         android:allowBackup="true"
