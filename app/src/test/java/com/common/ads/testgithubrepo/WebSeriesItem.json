@@ -10539,6 +10539,57 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Special Ops 1.5: The Himmat Story",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/7/7b/Special_Ops_Himmat_Story_Poster.jpeg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/5.8)",
+      "description": "Special Ops 1.5: The Himmat Story is an Indian Hindi-language action espionage thriller streaming television series created and directed by Neeraj Pandey for Disney+ Hotstar. The series is set inside the Special Ops Universe and stars Kay Kay Menon as the titular Himmat Singh. The series premiered on 12 November 2021.",
+      "genre": "Thriller",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=1ZTShnS3Uss",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "The Legend of Korra",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/8/85/Legend_of_Korra_logo.png",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.4)",
+      "description": "The Legend of Korra, also known as Avatar: The Legend of Korra, is an American anime-influenced animated television series created by Michael Dante DiMartino and Bryan Konietzko for Nickelodeon.",
+      "genre": "Family",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=54srZLuYfb0",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "Superwog",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/2/25/Superwog_poster.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/7.2)",
+      "description": "Superwog is an Australian television comedy series created by Theodore and Nathan Saidden, based on their YouTube sketch comedies. The series follows Theo \"Superwog\", his family and his friend Johnny in Australian suburbia.",
+      "genre": "Comedy",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=0o6TkjjlTu0",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
