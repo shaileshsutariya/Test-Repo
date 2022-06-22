@@ -8,7 +8,7 @@
     {
       "key": "showUnityAds",
       "value": "yes",
-      "type": ""
+      "type": "ads"
     }
   ]
 }
