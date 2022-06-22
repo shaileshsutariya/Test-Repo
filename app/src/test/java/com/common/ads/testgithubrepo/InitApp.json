@@ -6,7 +6,7 @@
       "type": "threshholdClick"
     },
     {
-      "key": "showUnityAds",
+      "key": "showAds",
       "value": "yes",
       "type": "ads"
     }
