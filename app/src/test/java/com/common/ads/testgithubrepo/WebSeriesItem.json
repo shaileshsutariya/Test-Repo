@@ -10590,6 +10590,23 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Westworld",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Westworld_%28TV_series%29_title_card.jpg/375px-Westworld_%28TV_series%29_title_card.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.6)",
+      "description": "In a futuristic Western-themed amusement park, Westworld, the visitors interact with automatons. However, all hell breaks loose when the robots begin malfunctioning.",
+      "genre": "Sci-fi",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=kEkZdgWu7mM",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
