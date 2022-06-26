@@ -10607,6 +10607,23 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Man vs. Bee",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/d/de/Man_vs_Bee.png",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/7.3)",
+      "description": "A homeless man looking for work is mistaken by a business woman for her new house sitter. Wacky hi-jinks ensue as he tries to take care of this house while pursued by a mischievous bee.",
+      "genre": "Comedy",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=YQ1vN_91KO0",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
