@@ -10658,6 +10658,23 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Blackadder",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/b/b2/Ba4.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8)",
+      "description": "An out-of-favor son tries to win the approval of his father, the king.",
+      "genre": "Sitcom",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=Na4v8CeKnxM",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
