@@ -10675,6 +10675,40 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Mind Your Language",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/1/1d/Mind_Your_Language_title_screen.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.7)",
+      "description": "Jeremy Brown, a language teacher, tries to make a living by teaching English to immigrants. With pupils from India, France, China, and many other countries, his lessons do not always go as planned.",
+      "genre": "Sitcom",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=aDrhmqkYuoY",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "Some Mothers Do 'Ave 'Em",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/6/69/Some_Mothers_Do_%27Ave_%27Em.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/7.6)",
+      "description": "Accident-prone Frank Spencer fails to navigate the simplest tasks of daily life, while also trying to look after his wife and baby.",
+      "genre": "Sitcom",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=NlXoEZHMltI",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
