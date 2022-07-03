@@ -10794,6 +10794,40 @@
             "animate": "",
             "type": "Webseries",
             "extra": ""
+        },
+        {
+            "name": "Rudrabinar Obhishaap",
+            "banner": "https://m.media-amazon.com/images/M/MV5BNTNmYzhhMjQtYjhmYy00YTQzLWJmYzUtYjRkZGMzNzhiODVkXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_.jpg",
+            "link": "nay aave",
+            "quality": "1080p",
+            "size": "nay aave",
+            "ratings": "IMDB (10/6.3)",
+            "description": "Rudrapur and Anandagarh are two legendary schools of Indian classical music. However, these two places have a common past so dark that its revelation may change many lives forever.",
+            "genre": "Mystery",
+            "language": "Bengali",
+            "credit": "wikipedia",
+            "trailer": "https://www.youtube.com/watch?v=l5WRljlFUaU",
+            "premium": "",
+            "animate": "",
+            "type": "Webseries",
+            "extra": ""
+        },
+        {
+            "name": "The Mosquito Coast",
+            "banner": "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Mosquito_Coast_Series_poster.png",
+            "link": "nay aave",
+            "quality": "720p",
+            "size": "nay aave",
+            "ratings": "IMDB (10/6.9)",
+            "description": "Allie Fox -- a brilliant inventor and stubborn idealist -- uproots his family for a dangerous quest through Mexico to flee the U.S. government and find safety.",
+            "genre": "Drama",
+            "language": "English",
+            "credit": "wikipedia",
+            "trailer": "https://www.youtube.com/watch?v=-L7JUzwyNDs",
+            "premium": "",
+            "animate": "",
+            "type": "Webseries",
+            "extra": ""
         }
     ]
 }
