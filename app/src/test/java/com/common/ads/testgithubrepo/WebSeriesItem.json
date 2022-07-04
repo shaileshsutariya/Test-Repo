@@ -10828,6 +10828,40 @@
             "animate": "",
             "type": "Webseries",
             "extra": ""
+        },
+        {
+            "name": "The Man Who Fell to Earth",
+            "banner": "https://upload.wikimedia.org/wikipedia/en/c/c4/Man_who_fell_to_earth_ver1.jpg",
+            "link": "nay aave",
+            "quality": "720p",
+            "size": "nay aave",
+            "ratings": "IMDB (10/6.8)",
+            "description": "An alien arrives and must learn what it means to be human -- while fighting for his own species.",
+            "genre": "Sci-fi",
+            "language": "English",
+            "credit": "wikipedia",
+            "trailer": "https://www.youtube.com/watch?v=iqM5UeQVRvI",
+            "premium": "",
+            "animate": "",
+            "type": "Webseries",
+            "extra": ""
+        },
+        {
+            "name": "Billy the Kid",
+            "banner": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-i6IKkAQ6TZP6Ify73Gq8-oG0tzOxeb8-4gtl-rlZittheTyD",
+            "link": "nay aave",
+            "quality": "720p",
+            "size": "nay aave",
+            "ratings": "IMDB (10/7)",
+            "description": "The life of Billy the Kid from his humble roots to his days as a gunslinger in the American frontier.",
+            "genre": "Adventure",
+            "language": "English",
+            "credit": "wikipedia",
+            "trailer": "https://www.youtube.com/watch?v=vNmrW8MEj_Y",
+            "premium": "",
+            "animate": "",
+            "type": "Webseries",
+            "extra": ""
         }
     ]
 }
