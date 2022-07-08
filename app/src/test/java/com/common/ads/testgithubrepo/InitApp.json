@@ -12,22 +12,22 @@
     },
     {
       "key": "update",
-      "value": "yes",
-      "type": "update"
-    },
-    {
-      "key": "forceUpdate",
       "value": "no",
       "type": "update"
     },
     {
+      "key": "forceUpdate",
+      "value": "yes",
+      "type": "update"
+    },
+    {
       "key": "updateMessage",
-      "value": "updateMessage",
+      "value": "New version of movie downloader is now available on playstore with improve stability, \\nClick on update to download the latest app.",
       "type": "update"
     },
     {
       "key": "forceUpdateMessage",
-      "value": "forceUpdateMessage",
+      "value": "New version of movie downloader is now available on playstore with improve stability, \\nClick on update to download the latest app.",
       "type": "update"
     },
     {
