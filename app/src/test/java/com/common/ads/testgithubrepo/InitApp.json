@@ -12,12 +12,12 @@
     },
     {
       "key": "update",
-      "value": "no",
+      "value": "yes",
       "type": "update"
     },
     {
       "key": "forceUpdate",
-      "value": "yes",
+      "value": "no",
       "type": "update"
     },
     {
