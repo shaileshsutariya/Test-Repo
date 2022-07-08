@@ -2,13 +2,23 @@
   "InitApp": [
     {
       "key": "threshholdClick",
-      "value": 5,
+      "value": "5",
       "type": "threshholdClick"
     },
     {
       "key": "showAds",
       "value": "no",
       "type": "ads"
+    },
+    {
+      "key": "update",
+      "value": "yes",
+      "type": "update"
+    },
+    {
+      "key": "forceUpdate",
+      "value": "no",
+      "type": "update"
     }
   ]
 }
