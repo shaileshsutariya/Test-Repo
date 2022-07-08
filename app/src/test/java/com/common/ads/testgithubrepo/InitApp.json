@@ -2,13 +2,43 @@
   "InitApp": [
     {
       "key": "threshholdClick",
-      "value": 5,
+      "value": "5",
       "type": "threshholdClick"
     },
     {
       "key": "showAds",
       "value": "no",
       "type": "ads"
+    },
+    {
+      "key": "update",
+      "value": "no",
+      "type": "update"
+    },
+    {
+      "key": "forceUpdate",
+      "value": "no",
+      "type": "update"
+    },
+    {
+      "key": "updateMessage",
+      "value": "New version of movie downloader is now available with improve stability, Click on update to download the latest app.",
+      "type": "update"
+    },
+    {
+      "key": "forceUpdateMessage",
+      "value": "New version of movie downloader is now available with improve stability, Click on update to download the latest app.",
+      "type": "update"
+    },
+    {
+      "key": "updateLink",
+      "value": "https://play.google.com/store/apps/details?id=mediatoolscreation.movie.downloader",
+      "type": "update"
+    },
+    {
+      "key": "updateVersionCode",
+      "value": "7",
+      "type": "update"
     }
   ]
 }
