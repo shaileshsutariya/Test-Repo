@@ -19,6 +19,16 @@
       "key": "forceUpdate",
       "value": "no",
       "type": "update"
+    },
+    {
+      "key": "updateMessage",
+      "value": "updateMessage",
+      "type": "update"
+    },
+    {
+      "key": "forceUpdateMessage",
+      "value": "forceUpdateMessage",
+      "type": "update"
     }
   ]
 }
