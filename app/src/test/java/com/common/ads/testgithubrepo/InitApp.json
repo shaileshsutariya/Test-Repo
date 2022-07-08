@@ -12,7 +12,7 @@
     },
     {
       "key": "update",
-      "value": "yes",
+      "value": "no",
       "type": "update"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "key": "updateMessage",
-      "value": "New version of movie downloader is now available on playstore with improve stability, \\nClick on update to download the latest app.",
+      "value": "New version of movie downloader is now available with improve stability, Click on update to download the latest app.",
       "type": "update"
     },
     {
       "key": "forceUpdateMessage",
-      "value": "New version of movie downloader is now available on playstore with improve stability, \\nClick on update to download the latest app.",
+      "value": "New version of movie downloader is now available with improve stability, Click on update to download the latest app.",
       "type": "update"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "key": "updateVersionCode",
-      "value": "6",
+      "value": "7",
       "type": "update"
     }
   ]
