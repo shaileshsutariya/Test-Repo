@@ -29,6 +29,11 @@
       "key": "forceUpdateMessage",
       "value": "forceUpdateMessage",
       "type": "update"
+    },
+    {
+      "key": "updateLink",
+      "value": "https://play.google.com/store/apps/details?id=mediatoolscreation.movie.downloader",
+      "type": "update"
     }
   ]
 }
