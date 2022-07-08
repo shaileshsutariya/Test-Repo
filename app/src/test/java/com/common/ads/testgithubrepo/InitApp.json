@@ -34,6 +34,11 @@
       "key": "updateLink",
       "value": "https://play.google.com/store/apps/details?id=mediatoolscreation.movie.downloader",
       "type": "update"
+    },
+    {
+      "key": "updateVersionCode",
+      "value": "5",
+      "type": "update"
     }
   ]
 }
