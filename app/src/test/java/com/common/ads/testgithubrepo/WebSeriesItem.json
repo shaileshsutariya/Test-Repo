@@ -10896,6 +10896,40 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Archer",
+      "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Archer_2009_TV_series_logo.svg/375px-Archer_2009_TV_series_logo.svg.png",
+      "link": "nay aave",
+      "quality": "1080p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.6)",
+      "description": "Suave international spy Sterling Archer and his cohorts at a New York-based intelligence agency battle rival spies, exotic enemies and their own dysfunctional personalities.",
+      "genre": "Sitcom",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=EB-mWJ7f0_I",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "Descendants of the Sun",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/6/6e/DescendantsoftheSun.jpg",
+      "link": "nay aave",
+      "quality": "480p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.3)",
+      "description": "A soldier belonging to the South Korean Special Forces falls in love with a beautiful surgeon. However, their relationship is short-lived as their professions keep them apart.",
+      "genre": "Drama",
+      "language": "Korean",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=wkHjOTFv60g",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
