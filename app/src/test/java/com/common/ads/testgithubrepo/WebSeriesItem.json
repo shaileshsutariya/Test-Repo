@@ -10964,6 +10964,40 @@
       "animate": "",
       "type": "Webseries",
       "extra": ""
+    },
+    {
+      "name": "Sweet Tooth",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Sweet_Tooth_%28TV_series%29_Title_Card.png/375px-Sweet_Tooth_%28TV_series%29_Title_Card.png",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/7.8)",
+      "description": "On a perilous adventure in a post-apocalyptic world, a boy who's half-human and half deer searches for a new beginning with a gruff protector.",
+      "genre": "Drama",
+      "language": "English",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=9zG9RuJb3QU",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "Shoorveer",
+      "banner": "https://m.media-amazon.com/images/M/MV5BOGQ1NDlhNDUtMGUzOC00MmZmLTk5MGUtM2MzNWI5ZDcyZDczXkEyXkFqcGdeQXVyMTE1Nzc0ODU2._V1_.jpg",
+      "link": "nay aave",
+      "quality": "720p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/6.5)",
+      "description": "When an imminent attack threatens India, an elite unit undertakes a mission that will test the limits of their courage and grit.",
+      "genre": "Action",
+      "language": "Hindi",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=f6KdMY08WkU",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
     }
   ]
 }
