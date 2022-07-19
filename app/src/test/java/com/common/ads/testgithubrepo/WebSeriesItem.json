@@ -885,7 +885,7 @@
       "extra": ""
     },
     {
-      "name": "Chernobyl series",
+      "name": "Chernobyl",
       "banner": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chernobyl_2019_Miniseries.jpg",
       "link": "nay aave",
       "quality": "480p",
@@ -10994,6 +10994,23 @@
       "language": "English",
       "credit": "wikipedia",
       "trailer": "https://www.youtube.com/watch?v=Al5-QXSDjkc",
+      "premium": "",
+      "animate": "",
+      "type": "Webseries",
+      "extra": ""
+    },
+    {
+      "name": "Better Call Saul",
+      "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Better_Call_Saul_logo.svg/375px-Better_Call_Saul_logo.svg.png",
+      "link": "nay aave",
+      "quality": "480p",
+      "size": "nay aave",
+      "ratings": "IMDB (10/8.8)",
+      "description": "Ex-con artist Jimmy McGill turns into a small-time attorney and goes through a series of trials and tragedies, as he transforms into his alter ego Saul Goodman, a morally challenged criminal lawyer.",
+      "genre": "Drama",
+      "language": "Persain",
+      "credit": "wikipedia",
+      "trailer": "https://www.youtube.com/watch?v=HN4oydykJFc",
       "premium": "",
       "animate": "",
       "type": "Webseries",
